@@ -17,16 +17,19 @@ header {
     height: 100px;
     background: url("../img/vecteezy_geometric-pattern-png_17059474.png") repeat-x #4ea0ff;
     background-size: 160px;
-    padding-top: 50px;
-    
+    padding-top: 50px;  
 }
+
 header img {
     width: 50px;
     padding-left: 5px;
 }
 
+.data {
+    color: gray;
+}
 .autore {
-
+    color: gray;
 }
 .autore a {
     text-decoration: none;
