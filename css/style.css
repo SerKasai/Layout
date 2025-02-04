@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} 
+
+body{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 38px;
+}
+
+header {
+    height: 100px;
+    background: url("../img/vecteezy_geometric-pattern-png_17059474.png") repeat-x #4ea0ff;
+    background-size: 160px;
+    padding-top: 50px;
+    
+}
+header img {
+    width: 50px;
+    padding-left: 5px;
+}
+
+.autore {
+
+}
+.autore a {
+    text-decoration: none;
+    color: #4ea0ff ;
+}
