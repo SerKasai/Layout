@@ -27,8 +27,8 @@ header {
 }
 
 header img {
-    width: 50px;
-    padding-left: 5px;
+    width: 180px;
+    padding-left: 20px;
 }
 
 .data {
@@ -62,7 +62,7 @@ thead {
     color: white;
 }
 
-tbody tr{
+tbody tr {
     background-color: #656eee;
     color: rgb(0, 0, 0);
 }
@@ -70,12 +70,20 @@ tbody tr{
 td, th {
     text-align: left;
     padding: 2px 10px
-
 }
 .first, .second {
     width: 25%;
 }
 
+.quote {
+    padding-top: 20px;
+}
+.collegamento {
+    padding-top: 10px;
+    color: gray;
+    text-decoration: none;
+}
+
 footer {
-    padding-top: 20px
+    
 }
